@@ -1,7 +1,7 @@
 # Newegg In stock Alert
 This alerter is configured to monitor a **valid url**. Upon identifying an in stock item it sends an **email** to the user about what was found.
 
-IMG
+![smaple_log](https://user-images.githubusercontent.com/87616660/129764445-b37f8936-f0cf-4a62-a54a-d08fc59b2bb6.png)
 
 ## What is a valid URL?
 A valid URL is a newegg search page or event sale store page. This program **does not** accept individual item pages. If you are looking for something specific try to narrow your search terms.
